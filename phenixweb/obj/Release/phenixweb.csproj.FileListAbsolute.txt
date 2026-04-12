@@ -83,3 +83,4 @@ D:\phenixwebsite\phenixweb\phenixweb\obj\Release\phenixweb.csproj.CoreCompileInp
 D:\phenixwebsite\phenixweb\phenixweb\obj\Release\phenixweb.csproj.CopyComplete
 D:\phenixwebsite\phenixweb\phenixweb\obj\Release\phenixweb.dll
 D:\phenixwebsite\phenixweb\phenixweb\obj\Release\phenixweb.pdb
+D:\phenixwebsite\phenixweb\phenixweb\obj\Release\phenixweb.csproj.AssemblyReference.cache
